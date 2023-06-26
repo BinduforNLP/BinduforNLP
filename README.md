@@ -7,6 +7,8 @@
 
 🌱 To join our Community and participate in interesting research projects, fill this form : ["Bindu for NLP" 🙋🏾‍♀️ Community Application Form](https://forms.gle/WZUrt5ANfgArDHzy5) 
 
-💞️ Website : [bindufornlp.github.io](https://bindufornlp.github.io/) 
+🖥 Website : [bindufornlp.github.io](https://bindufornlp.github.io/) 
 
-📫 Social Media : Twitter - [@BinduforNLP](https://twitter.com/BinduforNLP) 
+🤗 HuggingFace Page : [BinduforNLPOrg @ HF](https://huggingface.co/BinduforNLPOrg)
+
+📫 Social Media : Twitter - [@BinduforNLP](https://twitter.com/BinduforNLP)
