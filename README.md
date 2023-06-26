@@ -1,6 +1,7 @@
 # 👋 Hi, Welcome @BinduforNLP's Github Page
 
-![bindulong](https://github.com/BinduforNLP/BinduforNLP/assets/137705635/72bcccc0-5a58-4e4b-8ef3-1edecbd5600c)
+![twitter header bindu](https://github.com/BinduforNLP/BinduforNLP/assets/137705635/eb68d714-d0ed-4619-82c9-e1a4da4e11bc)
+
 ## Bindu for NLP is an attempt to democratize NLP Research in India through Community Involvement
 
 
