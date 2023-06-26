@@ -4,7 +4,7 @@
 ## Bindu for NLP is an attempt to democratize NLP Research in India through Community Involvement
 
 
-🌱 To join our Community and participate in interesting research projects, fill this form : 
+🌱 To join our Community and participate in interesting research projects, fill this form : [Google Form](https://forms.gle/WZUrt5ANfgArDHzy5) 
 
 💞️ Website : [bindufornlp.github.io](https://bindufornlp.github.io/) 
 
